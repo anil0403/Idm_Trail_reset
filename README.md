@@ -1,2 +1,9 @@
+copyright © J2TEAM
+
+# This is only prefered to use for educational/learning purposes
 # Idm_Trail_reset
-reg. file is provided to reset trail of Internet Download Manager(IDM)
+
+run idm_reg.reg file to register IDM
+run idm_reset_reset.reg to reset trail of a IDM
+copyright © J2TEAM
+
